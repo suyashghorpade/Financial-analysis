@@ -1,5 +1,9 @@
 # Financial-analysis
 
+# Tableau Profile Link
+https://public.tableau.com/app/profile/suyash.ghorpade
+
+
 
 ## 📝 About This Repository
 This repository focuses on data analysis aimed at converting raw data into meaningful insights. The analysis supports business, financial, and operational decision-making through structured evaluation and forecasting.
