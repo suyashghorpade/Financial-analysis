@@ -1,4 +1,5 @@
 # Financial-analysis
+  ![Alt](https://github.com/suyashghorpade/Financial-analysis/blob/main/Dashboard%201.png)
 
 # Tableau Profile Link
 https://public.tableau.com/app/profile/suyash.ghorpade
